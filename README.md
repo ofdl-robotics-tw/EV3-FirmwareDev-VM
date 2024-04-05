@@ -3,7 +3,7 @@
 
 This is a development environment used to develop customized EV3 firmware, built using the Ubuntu Mate operating system (Chinese).
 
-Open VMWare and import the EV3_Ubuntu_x64.ovf file to use it. For related information, please see Read My Files on the desktop in the system.
+Open VMWare and import the EV3_Ubuntu_x64.ovf file to use it. For related information, please see ReadMe Files on the desktop in the system.
 
 Username: root
 
