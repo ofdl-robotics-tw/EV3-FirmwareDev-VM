@@ -9,6 +9,8 @@ Username: root
 
 Password: ofdltaiwan
 
+Download from release page.
+
 *This is a 2020 project and is now open source. Some documentation URLs in the system may no longer be available or changed.
 
 *Software is collected from Internet open source projects.
